@@ -1,0 +1,12 @@
+torch                      # PyTorch for deep learning models
+torchvision                # Datasets, transforms, and pretrained models
+timm                       # PyTorch Image Models (for Swin2SR backbone)
+transformers               # HuggingFace transformers (for TrOCR)
+datasets                   # HuggingFace datasets (optional, for OCR datasets)
+opencv-python              # Image/video processing and annotation
+numpy                      # Array operations
+Pillow                     # Image loading and manipulation
+scikit-image               # Image quality assessment (optional)
+matplotlib                 # Visualization
+pyyaml                     # For config file parsing
+tqdm                       # Progress bars
